@@ -4,10 +4,12 @@
    http://maven.apache.org/xsd/maven-4.0.0.xsd">
    <modelVersion>4.0.0</modelVersion>
 
-   <groupId>com.companyname.project-group</groupId>
-   <artifactId>project</artifactId>
+   <groupId>org.kalyan.opera</groupId>
+   <artifactId>firstmaven_project</artifactId>
    <version>1.0</version>
 <packaging>jar</packaging>
 
+<name>firstmaven_project</name>
+<url>http://maven.apache.org</url>
  
 </project>
