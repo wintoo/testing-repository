@@ -11,5 +11,5 @@
 
 <name>firstmaven_project</name>
 <url>http://maven.apache.org</url>
- 
+<target>hello</target> 
 </project>
