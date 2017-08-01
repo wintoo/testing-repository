@@ -11,7 +11,11 @@
 
 <name>firstmaven_project</name>
 <url>http://maven.apache.org</url>
+<<<<<<< HEAD
 <target>Beautiful</target>
 <artifactory>Nexus</artifactory>
 <project-name>Sample</project-name> 
+=======
+ 
+>>>>>>> parent of 67125c7... adding target tag
 </project>
