@@ -1,4 +1,3 @@
-hello world
 
 stage 'stage 1'
 echo 'development'
