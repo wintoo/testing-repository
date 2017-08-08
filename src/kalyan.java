@@ -1,3 +1,3 @@
 print "Hello world"
 
-This is second piece of code.
+Removing second line of code.
